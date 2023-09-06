@@ -8,3 +8,5 @@ var containsDuplicate = function (nums) {
   }
   return false; // returns false if you loop through all the values without finding a duplicate.
 };
+
+module.exports = containsDuplicate;
