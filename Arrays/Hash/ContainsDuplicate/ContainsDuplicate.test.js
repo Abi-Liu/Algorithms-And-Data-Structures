@@ -1,4 +1,4 @@
-const solution = require("../ContainsDuplicate");
+const solution = require("./ContainsDuplicate");
 
 describe("Properly determines if there is a duplicate in the array", () => {
   test("for array [1,2,3,1]", () => {
