@@ -35,3 +35,5 @@ var isAnagram = function (s, t) {
     return false;
   }
 };
+
+module.exports = isAnagram;
