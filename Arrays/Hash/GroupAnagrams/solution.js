@@ -17,3 +17,5 @@ var groupAnagrams = function (strs) {
   //return the array of values inside the map
   return Object.values(map);
 };
+
+module.exports = groupAnagrams;
