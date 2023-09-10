@@ -67,3 +67,5 @@ var isValidSudoku = function (board) {
   // if we made it through the entire loop without returning false, we know it is a valid sudoku board
   return true;
 };
+
+module.exports = isValidSudoku;
