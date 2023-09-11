@@ -45,3 +45,5 @@ var productExceptSelf = function (nums) {
   // return the result array
   return result;
 };
+
+module.exports = productExceptSelf;
