@@ -30,4 +30,4 @@ var maxOperations = function (nums, k) {
   return operations;
 };
 
-module.exports(maxOperations);
+module.exports = maxOperations;
