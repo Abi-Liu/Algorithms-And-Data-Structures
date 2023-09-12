@@ -27,3 +27,5 @@ var maxArea = function (height) {
   }
   return max;
 };
+
+module.exports = maxArea;
