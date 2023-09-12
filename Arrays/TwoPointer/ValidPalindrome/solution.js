@@ -40,3 +40,5 @@ function isAlphanumeric(character) {
   // Use the test() method to check if the character matches the pattern
   return regex.test(character);
 }
+
+module.exports = isPalindrome;
