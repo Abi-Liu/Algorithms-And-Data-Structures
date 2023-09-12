@@ -42,3 +42,5 @@ var threeSum = function (nums) {
   }
   return res;
 };
+
+module.exports = threeSum;
