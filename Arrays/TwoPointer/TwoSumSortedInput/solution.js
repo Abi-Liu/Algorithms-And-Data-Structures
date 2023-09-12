@@ -24,3 +24,5 @@ var twoSum = function (numbers, target) {
     else if (sum < target) left++;
   }
 };
+
+module.exports = twoSum;
