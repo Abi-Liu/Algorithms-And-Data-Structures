@@ -38,3 +38,5 @@ var trap = function (height) {
   }
   return water;
 };
+
+module.exports = trap;
