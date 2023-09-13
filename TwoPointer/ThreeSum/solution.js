@@ -2,6 +2,8 @@
 
 // Notice that the solution set must not contain duplicate triplets.
 
+// link: https://leetcode.com/problems/3sum/description/
+
 var threeSum = function (nums) {
   const res = [];
   // sorting the array will not only allow for us to check for duplicates more easily, but also speed up the process in general due to enabling us to use two pointers

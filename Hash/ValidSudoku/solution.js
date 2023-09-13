@@ -8,6 +8,8 @@
 // A Sudoku board (partially filled) could be valid but is not necessarily solvable.
 // Only the filled cells need to be validated according to the mentioned rules.
 
+// link: https://leetcode.com/problems/valid-sudoku/description/
+
 /**
  * @param {character[][]} board
  * @return {boolean}

@@ -4,6 +4,8 @@
 
 // Return the maximum number of operations you can perform on the array.
 
+// link: https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75
+
 var maxOperations = function (nums, k) {
   // sort the array so we can use a two pointer approach
   nums.sort((a, b) => a - b);

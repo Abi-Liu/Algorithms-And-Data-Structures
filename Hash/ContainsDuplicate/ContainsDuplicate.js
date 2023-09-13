@@ -1,5 +1,7 @@
 // Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
+// link: https://leetcode.com/problems/contains-duplicate/description/
+
 var containsDuplicate = function (nums) {
   const set = new Set(); //creates new Set. Set's are collections of values where each value can only occur once
   for (let i = 0; i < nums.length; i++) {

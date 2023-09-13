@@ -2,6 +2,8 @@
 
 // An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
+// link: https://leetcode.com/problems/valid-anagram/description/
+
 var isAnagram = function (s, t) {
   const map = new Map(); // creates a map
   for (let i = 0; i < s.length; i++) {

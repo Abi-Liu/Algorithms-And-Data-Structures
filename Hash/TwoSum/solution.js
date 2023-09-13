@@ -4,7 +4,9 @@
 
 // You can return the answer in any order.
 
-var twoSum = function (nums, target) {
+// link: //leetcode.com/problems/two-sum/description/
+
+https: var twoSum = function (nums, target) {
   let map = new Map(); // initialize new Map
   for (let i = 0; i < nums.length; i++) {
     // loop through nums and for each value, subtract from target to get the number we need to get to target
