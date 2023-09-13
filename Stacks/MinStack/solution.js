@@ -33,11 +33,13 @@ class MinStack {
     }
     // increment length
     this.length += 1;
+    return null;
   }
 
   pop() {
     this.members.pop();
     this.length -= 1;
+    return null;
   }
 
   top() {
@@ -58,3 +60,5 @@ class MinStack {
  * var param_3 = obj.top()
  * var param_4 = obj.getMin()
  */
+
+module.exports = MinStack;
