@@ -30,3 +30,5 @@ var evalRPN = function (tokens) {
   // once the loop is done, we will be left with one value in our stack which is the result.
   return stack[0];
 };
+
+module.exports = evalRPN;
