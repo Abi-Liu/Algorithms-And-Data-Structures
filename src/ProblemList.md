@@ -1,13 +1,13 @@
 ## Hash
 
-1.[Contains Duplicate -- Easy](https://leetcode.com/problems/contains-duplicate/description/)
+1. [Contains Duplicate -- Easy](https://leetcode.com/problems/contains-duplicate/description/)
 2. [Valid Anagram -- Easy](https://leetcode.com/problems/valid-anagram/description/)
 3. [Two Sum -- Easy](https://leetcode.com/problems/two-sum/description/)
 4. [Group Anagrams -- Medium](https://leetcode.com/problems/group-anagrams/description/)
-5.[Top K Frequent Elements -- Medium](https://leetcode.com/problems/top-k-frequent-elements/description/)
+5. [Top K Frequent Elements -- Medium](https://leetcode.com/problems/top-k-frequent-elements/description/)
 6. [Product of Array Except Self -- Medium](https://leetcode.com/problems/product-of-array-except-self/description/)
-7.[Valid Sudoku -- Medium](https://leetcode.com/problems/valid-sudoku/description/)
-8.[Longest Consecutive Sequence -- Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+7. [Valid Sudoku -- Medium](https://leetcode.com/problems/valid-sudoku/description/)
+8. [Longest Consecutive Sequence -- Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 
 ## Two Pointer
