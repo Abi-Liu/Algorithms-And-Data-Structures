@@ -14,7 +14,7 @@
 
 1. [Valid Palindrome -- Easy](https://leetcode.com/problems/valid-palindrome/description/)
 2. [Two Sum II -- Medium](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-3.[3Sum -- Medium](https://leetcode.com/problems/3sum/)
+3. [3Sum -- Medium](https://leetcode.com/problems/3sum/)
 4. [Container with Most Water -- Medium](https://leetcode.com/problems/container-with-most-water/description/)
 5. [Trapping Rainwater -- Hard](https://leetcode.com/problems/trapping-rain-water/description/)
 
