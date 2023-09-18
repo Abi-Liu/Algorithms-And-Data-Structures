@@ -1,5 +1,7 @@
+// link: https://leetcode.com/problems/search-a-2d-matrix/description/
+
 // OPTIMAL SOLUTION
-var searchMatrix = function (matrix, target) {
+https: var searchMatrix = function (matrix, target) {
   // since it is a 2d array, we need to initialize pointers for both the row and columns, this way we can do a binary search for both.
   let top = 0,
     bottom = matrix.length - 1,
