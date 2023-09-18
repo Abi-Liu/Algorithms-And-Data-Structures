@@ -29,35 +29,37 @@ var searchMatrix = function (matrix, target) {
   return false;
 };
 
-// UNOPTIMAL SOLUTION
-if (matrix.length === 1 && matrix[0].length === 1) {
-  if (matrix[0][0] === target) return true;
-  else false;
-}
-let top = 0,
-  left = 0,
-  right = matrix[top].length - 1,
-  bottom = matrix.length - 1;
+module.exports = searchMatrix;
 
-while (top <= bottom && left <= right) {
-  console.log("ran");
-  const mid = left == 0 && right == 0 ? 0 : Math.floor((left + right) / 2);
-  const val = matrix[top][mid];
-  if (val === target) {
-    return true;
-  } else if (val > target) {
-    right = mid - 1;
-  } else if (val < target) {
-    left = mid + 1;
-  } else if (left === right) {
-    top++;
-    if (top > matrix.length - 1) {
-      console.log("stopping");
-      return false;
-    } else {
-      left = 0;
-      right = matrix[top].length - 1;
-    }
-  }
-}
-return false;
+// UNOPTIMAL SOLUTION
+// if (matrix.length === 1 && matrix[0].length === 1) {
+//   if (matrix[0][0] === target) return true;
+//   else false;
+// }
+// let top = 0,
+//   left = 0,
+//   right = matrix[top].length - 1,
+//   bottom = matrix.length - 1;
+
+// while (top <= bottom && left <= right) {
+//   console.log("ran");
+//   const mid = left == 0 && right == 0 ? 0 : Math.floor((left + right) / 2);
+//   const val = matrix[top][mid];
+//   if (val === target) {
+//     return true;
+//   } else if (val > target) {
+//     right = mid - 1;
+//   } else if (val < target) {
+//     left = mid + 1;
+//   } else if (left === right) {
+//     top++;
+//     if (top > matrix.length - 1) {
+//       console.log("stopping");
+//       return false;
+//     } else {
+//       left = 0;
+//       right = matrix[top].length - 1;
+//     }
+//   }
+// }
+// return false;
