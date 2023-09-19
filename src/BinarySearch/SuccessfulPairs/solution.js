@@ -1,4 +1,4 @@
-// link: //leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75
+// link: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75
 
 https: var successfulPairs = function (spells, potions, success) {
   const pairs = [];
@@ -29,3 +29,5 @@ https: var successfulPairs = function (spells, potions, success) {
   }
   return pairs;
 };
+
+module.exports = successfulPairs;
