@@ -33,3 +33,4 @@
 2. [Search a 2D Matrix -- Medium](https://leetcode.com/problems/search-a-2d-matrix/description/)
 3. [Koko Eating Bananas -- Medium](https://leetcode.com/problems/koko-eating-bananas/description/)
 4. [Successful Pairs of Potions and Spells](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)
+5. [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=leetcode-75)
