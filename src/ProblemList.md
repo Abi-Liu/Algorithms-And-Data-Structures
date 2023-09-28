@@ -24,7 +24,7 @@
 1. [Valid Parentheses -- Easy](https://leetcode.com/problems/valid-parentheses/description/)
 2. [Min Stack -- Medium](https://leetcode.com/problems/min-stack/description/)
 3. [Evaluate RPL -- Medium](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
-
+4. [Generate Valid Parentheses - Medium](https://leetcode.com/problems/generate-parentheses/)
 
 
 ## Binary Search
