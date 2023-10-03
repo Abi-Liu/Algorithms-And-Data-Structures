@@ -6,10 +6,33 @@
 
 // https://leetcode.com/problems/product-of-array-except-self/
 
-/**
- * @param {number[]} nums
- * @return {number[]}
- */
+// REFACTORED SOLUTION
+// faster implementation due to getting rid of the unnecessary array reversals
+
+var productExceptSelf = function (nums) {
+  let prefix = [];
+  let postfix = new Array(nums.length).fill(1);
+  for (let i = 0; i < nums.length; i++) {
+    if (i === 0) {
+      prefix.push(1);
+    } else {
+      prefix.push(prefix[i - 1] * nums[i - 1]);
+    }
+  }
+
+  for (let i = nums.length - 1; i >= 0; i--) {
+    if (i !== nums.length - 1) {
+      postfix[i] = postfix[i + 1] * nums[i + 1];
+    }
+  }
+  const result = [];
+  for (let i = 0; i < nums.length; i++) {
+    result.push(prefix[i] * postfix[i]);
+  }
+  return result;
+};
+
+// PREVIOUS SOLUTION
 var productExceptSelf = function (nums) {
   // array to hold the product of all integers to the left of an index
   let prefix = [];
