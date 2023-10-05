@@ -39,3 +39,5 @@ var search = function (nums, target) {
   // return -1 if we don't find the target
   return -1;
 };
+
+module.exports = search;
