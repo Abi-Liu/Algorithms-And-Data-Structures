@@ -40,4 +40,5 @@
 
 ## Sliding Window
 
-1. [Best Time to Buy and Sell Stock -- EA=ast](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+1. [Best Time to Buy and Sell Stock -- Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+2. [Longest SubStr Without Repeating Chars -- Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
