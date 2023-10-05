@@ -32,10 +32,12 @@
 1. [Binary Search -- Easy](https://leetcode.com/problems/binary-search/description/)
 2. [Search a 2D Matrix -- Medium](https://leetcode.com/problems/search-a-2d-matrix/description/)
 3. [Koko Eating Bananas -- Medium](https://leetcode.com/problems/koko-eating-bananas/description/)
-4. [Successful Pairs of Potions and Spells](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)
-5. [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=leetcode-75)
+4. [Successful Pairs of Potions and Spells -- Medium](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)
+5. [Find Peak Element -- Medium](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=leetcode-75)
+6. [Find Min in Rotated Sorted Array -- Medium](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+7. [Search in Rotated Sorted Array -- Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
 
 ## Sliding Window
 
-1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+1. [Best Time to Buy and Sell Stock -- EA=ast](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
