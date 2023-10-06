@@ -19,3 +19,5 @@ var topKFrequent = function (words, k) {
   // slice the array to return only the top k most frequent elements
   return res.slice(0, k);
 };
+
+module.exports = topKFrequent;
