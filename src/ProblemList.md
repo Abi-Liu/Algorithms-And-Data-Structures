@@ -9,7 +9,7 @@
 7. [Product of Array Except Self -- Medium](https://leetcode.com/problems/product-of-array-except-self/description/)
 8. [Valid Sudoku -- Medium](https://leetcode.com/problems/valid-sudoku/description/)
 9. [Longest Consecutive Sequence -- Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/)
-
+10. [Top K Frequent Words -- Medium](https://leetcode.com/problems/top-k-frequent-words/description/)
 
 ## Two Pointer
 
@@ -43,4 +43,4 @@
 
 1. [Best Time to Buy and Sell Stock -- Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 2. [Longest SubStr Without Repeating Chars -- Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-3. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+3. [Longest Repeating Character Replacement -- Medium](https://leetcode.com/problems/longest-repeating-character-replacement/)
