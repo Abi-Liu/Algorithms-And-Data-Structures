@@ -4,12 +4,13 @@
 2. [Valid Anagram -- Easy](https://leetcode.com/problems/valid-anagram/description/)
 3. [Two Sum -- Easy](https://leetcode.com/problems/two-sum/description/)
 4. [countConsistentStrings -- Easy](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
-5. [Group Anagrams -- Medium](https://leetcode.com/problems/group-anagrams/description/)
-6. [Top K Frequent Elements -- Medium](https://leetcode.com/problems/top-k-frequent-elements/description/)
-7. [Product of Array Except Self -- Medium](https://leetcode.com/problems/product-of-array-except-self/description/)
-8. [Valid Sudoku -- Medium](https://leetcode.com/problems/valid-sudoku/description/)
-9. [Longest Consecutive Sequence -- Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/)
-10. [Top K Frequent Words -- Medium](https://leetcode.com/problems/top-k-frequent-words/description/)
+5. [Unique Email Addresses -- Easy](https://leetcode.com/problems/unique-email-addresses/description/)
+6. [Group Anagrams -- Medium](https://leetcode.com/problems/group-anagrams/description/)
+7. [Top K Frequent Elements -- Medium](https://leetcode.com/problems/top-k-frequent-elements/description/)
+8. [Product of Array Except Self -- Medium](https://leetcode.com/problems/product-of-array-except-self/description/)
+9. [Valid Sudoku -- Medium](https://leetcode.com/problems/valid-sudoku/description/)
+10. [Longest Consecutive Sequence -- Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+11. [Top K Frequent Words -- Medium](https://leetcode.com/problems/top-k-frequent-words/description/)
 
 ## Two Pointer
 
