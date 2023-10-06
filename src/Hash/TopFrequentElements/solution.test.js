@@ -1,4 +1,4 @@
-const solution = require("./solution-slow-refactor-later");
+const solution = require("./solution");
 
 describe("Top Frequent K Elements Test", () => {
   test("for nums = [1,1,1,2,2,3], k = 2", () => {

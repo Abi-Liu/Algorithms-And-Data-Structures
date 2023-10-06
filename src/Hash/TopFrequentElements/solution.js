@@ -2,11 +2,18 @@
 
 // link: https://leetcode.com/problems/top-k-frequent-elements/description/
 
-/**
- * @param {number[]} nums
- * @param {number} k
- * @return {number[]}
- */
+// REFACTORED SOLUTION
+var topKFrequent = function (nums, k) {
+  const map = new Map();
+  for (let i = 0; i < nums.length; i++) {
+    map.set(nums[i], map.get(nums[i]) + 1 || 0);
+  }
+
+  const res = [...map.entries()].sort((a, b) => b[1] - a[1]).map((x) => x[0]);
+  return res.slice(0, k);
+};
+
+// OLD SOLUTION SLOW
 var topKFrequent = function (nums, k) {
   // initializing an object to be a map
   let map = {};

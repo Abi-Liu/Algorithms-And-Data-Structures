@@ -24,9 +24,10 @@
 ## Stacks
 
 1. [Valid Parentheses -- Easy](https://leetcode.com/problems/valid-parentheses/description/)
-2. [Min Stack -- Medium](https://leetcode.com/problems/min-stack/description/)
-3. [Evaluate RPL -- Medium](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
-4. [Generate Valid Parentheses - Medium](https://leetcode.com/problems/generate-parentheses/)
+2. [Next Greater Element -- Easy](https://leetcode.com/problems/next-greater-element-i/description/)
+3. [Min Stack -- Medium](https://leetcode.com/problems/min-stack/description/)
+4. [Evaluate RPL -- Medium](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+5. [Generate Valid Parentheses - Medium](https://leetcode.com/problems/generate-parentheses/)
 
 
 ## Binary Search
