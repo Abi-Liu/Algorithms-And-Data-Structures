@@ -46,3 +46,4 @@
 1. [Best Time to Buy and Sell Stock -- Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 2. [Longest SubStr Without Repeating Chars -- Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. [Longest Repeating Character Replacement -- Medium](https://leetcode.com/problems/longest-repeating-character-replacement/)
+4. [Permutations in String -- Medium](https://leetcode.com/problems/permutation-in-string/)
