@@ -47,3 +47,8 @@
 2. [Longest SubStr Without Repeating Chars -- Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. [Longest Repeating Character Replacement -- Medium](https://leetcode.com/problems/longest-repeating-character-replacement/)
 4. [Permutations in String -- Medium](https://leetcode.com/problems/permutation-in-string/)
+
+
+## Linked Lists
+
+1. [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)

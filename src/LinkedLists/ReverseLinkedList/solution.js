@@ -12,3 +12,5 @@ var reverseList = function (head) {
   }
   return prev;
 };
+
+module.exports = reverseList;
