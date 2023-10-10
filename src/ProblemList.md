@@ -51,5 +51,7 @@
 
 ## Linked Lists
 
-1. [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-2. [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+1. [Reverse a Linked List -- Easy](https://leetcode.com/problems/reverse-linked-list/)
+2. [Merge two sorted lists -- Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
+3. [Reorder List -- Medium](https://leetcode.com/problems/reorder-list/description/)
+4. [Remove Nth Node From End -- Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)

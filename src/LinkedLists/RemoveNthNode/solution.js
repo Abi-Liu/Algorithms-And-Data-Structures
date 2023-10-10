@@ -25,3 +25,5 @@ var removeNthFromEnd = function (head, n) {
   slow.next = slow.next.next;
   return head;
 };
+
+module.exports = removeNthFromEnd;
