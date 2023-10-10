@@ -1,5 +1,13 @@
 // link: https://leetcode.com/problems/copy-list-with-random-pointer/description/
 
+class Node {
+  constructor(val, next = null, random = null) {
+    this.val = val;
+    this.next = next;
+    this.random = random;
+  }
+}
+
 var copyRandomList = function (head) {
   // map to store the values of the old list
   const map = new Map();
