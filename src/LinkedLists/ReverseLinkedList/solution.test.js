@@ -1,11 +1,5 @@
 const { reverseListIterative, reverseListRecursive } = require("./solution");
-
-class ListNode {
-  constructor(val, next = null) {
-    this.val = val;
-    this.next = next;
-  }
-}
+const { ListNode } = require("../List");
 
 describe("Reverse a linked list", () => {
   test("iterative solution: should reverse a linked list", () => {
