@@ -55,3 +55,4 @@
 2. [Merge two sorted lists -- Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
 3. [Reorder List -- Medium](https://leetcode.com/problems/reorder-list/description/)
 4. [Remove Nth Node From End -- Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+5. [Copy list with random pointers -- Medium](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
