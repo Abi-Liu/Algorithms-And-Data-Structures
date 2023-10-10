@@ -26,7 +26,7 @@ const reverseListRecursive = function (head) {
     return head;
   }
   // we recursively go down the list until we reach the final node. This will be the pointer to the new head of the list
-  const newHead = reverseList(head.next);
+  const newHead = reverseListRecursive(head.next);
   // now we set the next next value to equal the current node are in. this is essentially what is doing the reversing.
   // we are just switching the pointers around
   head.next.next = head;
