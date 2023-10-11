@@ -58,3 +58,4 @@
 5. [Copy list with random pointers -- Medium](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 6. [Add Two Numbers -- Medium](https://leetcode.com/problems/add-two-numbers/)
 7. [Linked List Cycle -- Easy](https://leetcode.com/problems/linked-list-cycle/)
+8. [Find duplicate number -- Medium](https://leetcode.com/problems/find-the-duplicate-number/)
