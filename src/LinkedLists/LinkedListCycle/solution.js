@@ -17,3 +17,5 @@ var hasCycle = function (head) {
   // return false otherwise.
   return false;
 };
+
+module.exports = hasCycle;
