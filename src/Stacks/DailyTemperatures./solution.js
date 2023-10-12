@@ -6,6 +6,7 @@ var dailyTemperatures = function (temperatures) {
   // create our stack and answer array
   const stack = [],
     ans = new Array(temperatures.length).fill(0);
+
   // loop through the temperatures array and find we have a while loop to see if the top of our stack is colder than the current index of the temperature
   // while that is true we will pop the stack and insert the index - i into our answer array at the stack index.
   for (let i = 0; i < temperatures.length; i++) {
@@ -19,3 +20,5 @@ var dailyTemperatures = function (temperatures) {
   }
   return ans;
 };
+
+module.exports = dailyTemperatures;
