@@ -28,6 +28,7 @@
 3. [Min Stack -- Medium](https://leetcode.com/problems/min-stack/description/)
 4. [Evaluate RPL -- Medium](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 5. [Generate Valid Parentheses - Medium](https://leetcode.com/problems/generate-parentheses/)
+6. [Daily Temperatures -- Medium](https://leetcode.com/problems/daily-temperatures/)
 
 
 ## Binary Search
