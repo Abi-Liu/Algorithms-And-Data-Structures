@@ -1,4 +1,4 @@
-// link:
+// link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 var maxDepth = function (root) {
   // base case, we return 0
