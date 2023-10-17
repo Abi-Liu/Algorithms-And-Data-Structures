@@ -67,3 +67,4 @@
 1. [Invert Binary Tree -- Easy](https://leetcode.com/problems/invert-binary-tree/)
 2. [Max Depth -- Easy](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 3. [Diameter of Tree -- Easy](https://leetcode.com/problems/diameter-of-binary-tree/)
+4. [Balanced Binary Tree -- Easy](https://leetcode.com/problems/balanced-binary-tree/)
