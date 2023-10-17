@@ -24,3 +24,5 @@ var diameterOfBinaryTree = function (root) {
 
   return max;
 };
+
+module.exports = diameterOfBinaryTree;
