@@ -60,3 +60,8 @@
 6. [Add Two Numbers -- Medium](https://leetcode.com/problems/add-two-numbers/)
 7. [Linked List Cycle -- Easy](https://leetcode.com/problems/linked-list-cycle/)
 8. [Find duplicate number -- Medium](https://leetcode.com/problems/find-the-duplicate-number/)
+
+
+## Binary Trees
+
+1. [Invert Binary Tree -- Easy](https://leetcode.com/problems/invert-binary-tree/)
