@@ -65,3 +65,4 @@
 ## Binary Trees
 
 1. [Invert Binary Tree -- Easy](https://leetcode.com/problems/invert-binary-tree/)
+2. [Max Depth -- Easy](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
