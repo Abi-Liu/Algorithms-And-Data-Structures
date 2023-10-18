@@ -72,3 +72,4 @@
 5. [Same Tree -- Easy](https://leetcode.com/problems/same-tree/)
 6. [Subtree of Another Tree -- Easy](https://leetcode.com/problems/subtree-of-another-tree/)
 7. [Lowest Common Ancestor -- Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+8. [Level Order Traversal -- Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
