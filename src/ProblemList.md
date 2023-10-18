@@ -68,3 +68,4 @@
 2. [Max Depth -- Easy](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 3. [Diameter of Tree -- Easy](https://leetcode.com/problems/diameter-of-binary-tree/)
 4. [Balanced Binary Tree -- Easy](https://leetcode.com/problems/balanced-binary-tree/)
+4. [Same Tree -- Easy](https://leetcode.com/problems/same-tree/)
