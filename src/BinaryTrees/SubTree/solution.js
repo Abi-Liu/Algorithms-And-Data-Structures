@@ -18,3 +18,5 @@ var isSubtree = function (root, subRoot) {
   }
   return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
 };
+
+module.exports = isSubtree;
