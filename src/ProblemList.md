@@ -18,7 +18,8 @@
 2. [Two Sum II -- Medium](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 3. [3Sum -- Medium](https://leetcode.com/problems/3sum/)
 4. [Container with Most Water -- Medium](https://leetcode.com/problems/container-with-most-water/description/)
-5. [Trapping Rainwater -- Hard](https://leetcode.com/problems/trapping-rain-water/description/)
+5. [Max Number of K Sum Pairs -- Medium](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75)
+6. [Trapping Rainwater -- Hard](https://leetcode.com/problems/trapping-rain-water/description/)
 
 
 ## Stacks
