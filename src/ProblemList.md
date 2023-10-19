@@ -74,3 +74,4 @@
 7. [Lowest Common Ancestor -- Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 8. [Level Order Traversal -- Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 9. [Right side view-- Medium](https://leetcode.com/problems/binary-tree-right-side-view/)
+10. [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
