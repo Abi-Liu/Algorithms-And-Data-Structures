@@ -20,3 +20,5 @@ var goodNodes = function (root) {
   dfs(root, -Infinity);
   return good;
 };
+
+module.exports = goodNodes;

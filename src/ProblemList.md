@@ -49,6 +49,7 @@
 2. [Longest SubStr Without Repeating Chars -- Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. [Longest Repeating Character Replacement -- Medium](https://leetcode.com/problems/longest-repeating-character-replacement/)
 4. [Permutations in String -- Medium](https://leetcode.com/problems/permutation-in-string/)
+5. [Maximum Number of Vowels -- Medium](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)
 
 
 ## Linked Lists
