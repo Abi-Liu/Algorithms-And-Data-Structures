@@ -43,3 +43,5 @@ var rightSideView = function (root) {
 
   return result;
 };
+
+module.exports = rightSideView;
