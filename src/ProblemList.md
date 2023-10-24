@@ -51,6 +51,7 @@
 4. [Permutations in String -- Medium](https://leetcode.com/problems/permutation-in-string/)
 5. [Maximum Number of Vowels -- Medium](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)
 6. [Max Consecutive Ones III -- Medium](https://leetcode.com/problems/max-consecutive-ones-iii/?envType=study-plan-v2&envId=leetcode-75)
+7. [Minimum Substring Window -- Hard](https://leetcode.com/problems/minimum-window-substring/)
 
 
 ## Linked Lists
