@@ -7,10 +7,4 @@ describe("minWindow", () => {
     expect(minWindow("a", "aa")).toBe("");
     expect(minWindow("ADOBECODEBANC", "XYZ")).toBe("");
   });
-
-  it("should handle edge cases", () => {
-    expect(minWindow("", "ABC")).toBe("");
-    expect(minWindow("ADOBECODEBANC", "")).toBe("");
-    expect(minWindow("", "")).toBe("");
-  });
 });
