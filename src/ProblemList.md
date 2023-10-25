@@ -79,3 +79,7 @@
 9. [Right side view-- Medium](https://leetcode.com/problems/binary-tree-right-side-view/)
 10. [Good Nodes -- Medium](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 11. [Validate BST -- Medium](https://leetcode.com/problems/validate-binary-search-tree/)
+
+## Back Tracking
+
+1. [Subsets -- Medium](https://leetcode.com/problems/subsets/)

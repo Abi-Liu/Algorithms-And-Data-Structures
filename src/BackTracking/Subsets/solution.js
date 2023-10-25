@@ -6,6 +6,9 @@
 // we can recursively go through the array and have one option to add the current index to the result array, or leave it out.
 // once we have gone through every element in the nums array, we can push the generated array to the results array and break out of the recursive function
 
+// time complexity: O(2^n)
+// Space: O(N)
+
 var subsets = function (nums) {
   const res = [];
   function backtrack(arr, i) {
@@ -19,3 +22,5 @@ var subsets = function (nums) {
   backtrack([], 0);
   return res;
 };
+
+module.exports = subsets;
