@@ -17,7 +17,9 @@ This repository is organized into distinct algorithm implementations, each conta
 
 ## Topics
 
-You can find the full list of problems [here](https://github.com/Abi-Liu/Algorithms-And-Data-Structures/blob/main/src/ProblemList.md)
+You can find the full list of problems [here](https://github.com/Abi-Liu/Algorithms-And-Data-Structures/blob/main/src/ProblemList.md).
+
+I recommend going through the problems list in order as each topic builds upon each others.
 
 <table>
     <thead>
