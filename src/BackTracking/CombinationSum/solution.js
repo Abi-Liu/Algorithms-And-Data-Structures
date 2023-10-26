@@ -27,3 +27,5 @@ var combinationSum = function (candidates, target) {
   backtrack([], 0, target);
   return res;
 };
+
+module.exports = combinationSum;
