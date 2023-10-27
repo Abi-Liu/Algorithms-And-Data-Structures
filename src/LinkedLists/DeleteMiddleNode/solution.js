@@ -24,3 +24,5 @@ var deleteMiddle = function (head) {
   prev.next = prev.next.next;
   return head;
 };
+
+module.exports = deleteMiddle;

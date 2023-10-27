@@ -61,11 +61,12 @@
 1. [Reverse a Linked List -- Easy](https://leetcode.com/problems/reverse-linked-list/)
 2. [Merge two sorted lists -- Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
 3. [Reorder List -- Medium](https://leetcode.com/problems/reorder-list/description/)
-4. [Remove Nth Node From End -- Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
-5. [Copy list with random pointers -- Medium](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
-6. [Add Two Numbers -- Medium](https://leetcode.com/problems/add-two-numbers/)
-7. [Linked List Cycle -- Easy](https://leetcode.com/problems/linked-list-cycle/)
-8. [Find duplicate number -- Medium](https://leetcode.com/problems/find-the-duplicate-number/)
+4. [Remove Middle Node -- Medium](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
+5. [Remove Nth Node From End -- Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+6. [Copy list with random pointers -- Medium](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+7. [Add Two Numbers -- Medium](https://leetcode.com/problems/add-two-numbers/)
+8. [Linked List Cycle -- Easy](https://leetcode.com/problems/linked-list-cycle/)
+9. [Find duplicate number -- Medium](https://leetcode.com/problems/find-the-duplicate-number/)
 
 
 ## Binary Trees
