@@ -20,4 +20,10 @@ describe("combination sum 3", () => {
     expectedResult.sort();
     expect(result).toEqual(expect.arrayContaining(expectedResult));
   });
+
+  it("should work for the inputs k = 4, n = 1", () => {
+    const k = 4,
+      n = 1;
+    expect(combinationSum3(k, n)).toEqual([]);
+  });
 });
