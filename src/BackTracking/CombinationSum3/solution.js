@@ -25,3 +25,5 @@ var combinationSum3 = function (k, n) {
   backtrack([], 0, 0);
   return res;
 };
+
+module.exports = combinationSum3;
