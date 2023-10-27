@@ -30,6 +30,7 @@
 4. [Evaluate RPL -- Medium](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 5. [Generate Valid Parentheses - Medium](https://leetcode.com/problems/generate-parentheses/)
 6. [Daily Temperatures -- Medium](https://leetcode.com/problems/daily-temperatures/)
+7. [Remove Stars From String -- Medium](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
 
 
 ## Binary Search

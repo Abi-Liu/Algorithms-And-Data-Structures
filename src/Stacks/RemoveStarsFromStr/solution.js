@@ -15,3 +15,5 @@ var removeStars = function (s) {
   }
   return stack.join("");
 };
+
+module.exports = removeStars;
