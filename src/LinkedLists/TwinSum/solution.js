@@ -34,3 +34,4 @@ var pairSum = function (head) {
 
   return max;
 };
+module.exports = pairSum;

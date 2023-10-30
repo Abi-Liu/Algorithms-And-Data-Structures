@@ -67,6 +67,7 @@
 7. [Add Two Numbers -- Medium](https://leetcode.com/problems/add-two-numbers/)
 8. [Linked List Cycle -- Easy](https://leetcode.com/problems/linked-list-cycle/)
 9. [Find duplicate number -- Medium](https://leetcode.com/problems/find-the-duplicate-number/)
+10. [Twin Sum -- Medium](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
 
 
 ## Binary Trees
