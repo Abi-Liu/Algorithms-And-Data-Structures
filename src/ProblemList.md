@@ -90,3 +90,4 @@
 2. [Combination Sum -- Medium](https://leetcode.com/problems/combination-sum/)
 3. [Combination Sum 2 -- Medium](https://leetcode.com/problems/combination-sum-ii/)
 4. [Combination Sum 3 -- Medium](https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75)
+5. [Permutations -- Medium](https://leetcode.com/problems/permutations/description/)

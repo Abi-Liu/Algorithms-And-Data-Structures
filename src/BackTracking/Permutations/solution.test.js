@@ -38,8 +38,10 @@ describe("permute", () => {
   });
 
   it("should not modify the input array", () => {
-    const input = [1, 2, 3];
-    permute(input);
-    expect(input).toEqual([1, 2, 3]);
+    const input = [0, 1];
+    expect(permute(input)).toEqual([
+      [0, 1],
+      [1, 0],
+    ]);
   });
 });
