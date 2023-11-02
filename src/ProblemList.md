@@ -87,7 +87,9 @@
 ## Back Tracking
 
 1. [Subsets -- Medium](https://leetcode.com/problems/subsets/)
-2. [Combination Sum -- Medium](https://leetcode.com/problems/combination-sum/)
-3. [Combination Sum 2 -- Medium](https://leetcode.com/problems/combination-sum-ii/)
-4. [Combination Sum 3 -- Medium](https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75)
-5. [Permutations -- Medium](https://leetcode.com/problems/permutations/description/)
+2. [Subsets 2 -- Medium](https://leetcode.com/problems/subsets-ii/description/)
+3. [Combination Sum -- Medium](https://leetcode.com/problems/combination-sum/)
+4. [Combination Sum 2 -- Medium](https://leetcode.com/problems/combination-sum-ii/)
+5. [Combination Sum 3 -- Medium](https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75)
+6. [Permutations -- Medium](https://leetcode.com/problems/permutations/description/)
+7. [Word Search -- Medium](https://leetcode.com/problems/word-search/)
