@@ -1,5 +1,5 @@
 # Algorithms-And-Data-Structures
-This repository contains a collection of LeetCode problems in JavaScript that implement various data structures and algorithms. The problems are organized by topic and include detailed explanations to help you understand how they work.
+This repository contains a collection of LeetCode problems that I have completed in JavaScript that implement various data structures and algorithms. The problems are organized by topic and include detailed explanations to help you understand how they work.
 
 Feel free to fork this repo and implement your own solutions for the problems, or to look at my notes if you get stuck on a specific problem.
 
