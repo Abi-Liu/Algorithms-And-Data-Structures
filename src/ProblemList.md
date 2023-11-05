@@ -93,3 +93,4 @@
 5. [Combination Sum 3 -- Medium](https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75)
 6. [Permutations -- Medium](https://leetcode.com/problems/permutations/description/)
 7. [Word Search -- Medium](https://leetcode.com/problems/word-search/)
+8. [Letter Combination of a Phone Number -- Medium](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
