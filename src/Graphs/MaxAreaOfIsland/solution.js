@@ -34,3 +34,5 @@ var maxAreaOfIsland = function (grid) {
   }
   return max;
 };
+
+module.exports = maxAreaOfIsland;
