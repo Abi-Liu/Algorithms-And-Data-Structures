@@ -32,3 +32,4 @@ var numIslands = function (grid) {
 
   return count;
 };
+module.exports = numIslands;
