@@ -99,3 +99,4 @@
 ## Graphs
 
 1. [Number of Islands -- Medium](https://leetcode.com/problems/number-of-islands/description/)
+2. [Max Area of Island -- Medium](https://leetcode.com/problems/max-area-of-island/)
