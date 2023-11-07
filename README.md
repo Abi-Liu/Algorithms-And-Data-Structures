@@ -61,5 +61,9 @@ I recommend going through the problems list in order as each topic builds upon t
             <td>8</td>
             <td><a href = 'https://github.com/Abi-Liu/Algorithms-And-Data-Structures/tree/main/src/BackTracking'>Back Tracking</a></td>
         </tr>
+        <tr>
+            <td>9</td>
+            <td><a href = 'https://github.com/Abi-Liu/Algorithms-And-Data-Structures/tree/main/src/Graphs'>Graphs</a></td>
+        </tr>
     </tbody>
 </table>
