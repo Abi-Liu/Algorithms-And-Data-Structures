@@ -95,3 +95,7 @@
 6. [Permutations -- Medium](https://leetcode.com/problems/permutations/description/)
 7. [Word Search -- Medium](https://leetcode.com/problems/word-search/)
 8. [Letter Combination of a Phone Number -- Medium](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+
+## Graphs
+
+1. [Number of Islands -- Medium](https://leetcode.com/problems/number-of-islands/description/)
