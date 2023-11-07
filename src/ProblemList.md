@@ -83,6 +83,7 @@
 9. [Right side view-- Medium](https://leetcode.com/problems/binary-tree-right-side-view/)
 10. [Good Nodes -- Medium](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 11. [Validate BST -- Medium](https://leetcode.com/problems/validate-binary-search-tree/)
+12. [Maximum Level Sum -- Medium](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)
 
 ## Back Tracking
 

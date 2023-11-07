@@ -31,3 +31,5 @@ var maxLevelSum = function (root) {
   }
   return maxLevel;
 };
+
+module.exports = maxLevelSum;
