@@ -42,3 +42,5 @@ var minRemoveToMakeValid = function (s) {
 
   return backward.reverse().join("");
 };
+
+module.exports = minRemoveToMakeValid;
