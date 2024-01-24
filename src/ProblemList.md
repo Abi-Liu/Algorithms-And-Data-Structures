@@ -21,7 +21,6 @@
 5. [Max Number of K Sum Pairs -- Medium](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75)
 6. [Trapping Rainwater -- Hard](https://leetcode.com/problems/trapping-rain-water/description/)
 
-
 ## Stacks
 
 1. [Valid Parentheses -- Easy](https://leetcode.com/problems/valid-parentheses/description/)
@@ -32,7 +31,6 @@
 6. [Daily Temperatures -- Medium](https://leetcode.com/problems/daily-temperatures/)
 7. [Remove Stars From String -- Medium](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
 
-
 ## Binary Search
 
 1. [Binary Search -- Easy](https://leetcode.com/problems/binary-search/description/)
@@ -42,7 +40,7 @@
 5. [Find Peak Element -- Medium](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=leetcode-75)
 6. [Find Min in Rotated Sorted Array -- Medium](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 7. [Search in Rotated Sorted Array -- Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-
+8. [Find First and Last position in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ## Sliding Window
 
@@ -54,7 +52,6 @@
 6. [Max Consecutive Ones III -- Medium](https://leetcode.com/problems/max-consecutive-ones-iii/?envType=study-plan-v2&envId=leetcode-75)
 7. [Longest Subarray of 1's -- Medium](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/?envType=study-plan-v2&envId=leetcode-75)
 8. [Minimum Substring Window -- Hard](https://leetcode.com/problems/minimum-window-substring/)
-
 
 ## Linked Lists
 
@@ -68,7 +65,6 @@
 8. [Linked List Cycle -- Easy](https://leetcode.com/problems/linked-list-cycle/)
 9. [Find duplicate number -- Medium](https://leetcode.com/problems/find-the-duplicate-number/)
 10. [Twin Sum -- Medium](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
-
 
 ## Binary Trees
 
