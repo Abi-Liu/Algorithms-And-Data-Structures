@@ -11,3 +11,5 @@ var missingNumber = function (nums) {
     }
   }
 };
+
+module.exports = missingNumber;
